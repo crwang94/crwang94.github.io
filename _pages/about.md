@@ -15,7 +15,7 @@ My research interests focus on developing coding techniques that enhance the sec
 
 In my free time, I enjoy weightlifting, basketball, and tennis.
 
-#Publications
+# Publications
 
 **C. Wang** and N. Raviv, "Breaking Blockchain’s Communication Barrier with Coded Computation," in *IEEE Journal on Selected Areas in Information Theory*, 2022.
 
