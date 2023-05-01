@@ -11,7 +11,7 @@ redirect_from:
 
 I am a PhD candidate in the Department of Computer Science and Engineering at the McKelvey School of Engineering, Washington University in St. Louis. I received my BSc degree in Electrical Engineering from Virginia Tech in 2017. 
 
-My research interests focus on developing coding techniques that enhance the security and performance of real-world applications. Here is my [CV](https://crwang94.github.io/files/CV_Canran_Wang.pdf.).
+My research interests focus on developing coding techniques that enhance the security and performance of real-world applications. Here is my [CV](https://crwang94.github.io/files/CV_Canran_Wang.pdf).
 
 In my free time, I enjoy weightlifting, basketball, and tennis.
 
